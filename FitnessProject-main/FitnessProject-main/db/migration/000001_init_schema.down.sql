@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS liftentries;
+DROP TABLE IF EXISTS user_data;
